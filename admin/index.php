@@ -6,7 +6,7 @@ include("../db.php");
 include "sidenav.php";
 include "topheader.php";
 ?>
-      <!-- End Navbar -->
+      <!-- End Navbar  -->
       <div class="content">
         <div class="container-fluid">
          <div class="panel-body">
