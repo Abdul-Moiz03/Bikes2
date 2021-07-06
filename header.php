@@ -123,7 +123,7 @@ session_start();
 				<div class="container">
 					
 					<ul class="header-links pull-right">
-						<li><a href="#"><i class="fa fa-inr"></i> INR</a></li>
+						<li><a href="#"><i class="fa fa-inr"></i> PKR</a></li>
 						<li><?php
                              include "db.php";
                             if(isset($_SESSION["uid"])){
@@ -175,7 +175,7 @@ session_start();
 							<div class="header-logo">
 								<a href="#" class="logo">
 								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
-                                        Online Shop
+                                        BIKE SELLING SYSTEM
                                     </font>
 									
 								</a>
