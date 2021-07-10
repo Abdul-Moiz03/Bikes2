@@ -458,7 +458,7 @@ textarea.input {
 #top-header {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #1E1F29;
+  background-color:whitesmoke!important;
 }
 
 .header-links li {
@@ -472,7 +472,7 @@ textarea.input {
 }
 
 .header-links li a {
-  color: #FFF;
+ color: black;
 }
 
 .header-links li a:hover {
@@ -527,7 +527,7 @@ textarea.input {
 .header-search form .search-btn {
   height: 40px;
   width: 100px;
- background: #00B4DB;  /* fallback for old browsers */
+  background: #FFA62E!important; /* fallback for old browsers */
 background: -webkit-linear-gradient(to bottom, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to bottom, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 

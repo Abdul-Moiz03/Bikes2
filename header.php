@@ -47,7 +47,7 @@ session_start();
         #navigation {
           background: #FF4E50;  /* fallback for old browsers */
             background: -webkit-linear-gradient(to right, #F9D423, #FF4E50);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: linear-gradient(to left, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
           
         }
@@ -55,19 +55,19 @@ session_start();
   
             background: #780206;  /* fallback for old browsers */
             background: -webkit-linear-gradient(to right, #061161, #780206);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+            background: linear-gradient(to left, #E8CBC0, #636FA4); 
+			
   
         }
-        #top-header {
+        /* #top-header {
               
   
-            background: #870000;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #190A05, #870000);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #190A05, #870000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            /*background: #870000;  /* fallback for old browsers */
+            /*background: -webkit-linear-gradient(to right, #190A05, #870000);  /* Chrome 10-25, Safari 5.1-6 */
+            /*background: linear-gradient(to right, #190A05, #870000); 
 
 
-        }
+        } */
         #footer {
             background: #7474BF;  /* fallback for old browsers */
             background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
